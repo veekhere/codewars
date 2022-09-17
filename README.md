@@ -2,7 +2,7 @@
 
 Repo with CodeWars solutions. Now there are **7, 6** and **5 kys's** solutions including **TS, JS, C#** and **Rust** languages. Below are lists of solutions in ascending by difficulty order.
 
-There are _**37**_ solutions at the moment
+There are _**38**_ solutions at the moment
 
 ---
 
@@ -155,3 +155,7 @@ There are _**37**_ solutions at the moment
 - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
   - [JS solution](/kata's/5%20kyu/RGB%20To%20Hex%20Conversion/rgb-to-hex-conversion.js)
+
+- [A Chain adding function](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88)
+
+  -[TS solution](/kata's/5%20kyu/A%20Chain%20adding%20function/a-chain-adding-function.ts)
