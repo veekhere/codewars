@@ -1,6 +1,6 @@
 # codewars
 
-Repo with CodeWars solutions. Now there are **7, 6** and **5 kys's** solutions including **TS, JS, C#** and **Rust** languages. Below are lists of solutions in ascending by difficulty order.
+Repo with CodeWars solutions. Now there are **7, 6** and **5 kyus's** solutions including **TS, JS, C#** and **Rust** languages. Below are lists of solutions in ascending by difficulty order.
 
 There are _**39**_ solutions at the moment
 
