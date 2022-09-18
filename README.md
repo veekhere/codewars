@@ -4,7 +4,7 @@
 
 Repo with CodeWars solutions. Now there are **8**, **7, 6** and **5 kyus's** solutions including **TS, JS, C#** and **Rust** languages. Below are lists of solutions in ascending order of difficulty.
 
-There are _**39**_ solutions at the moment
+There are _**40**_ solutions at the moment
 
 ---
 
@@ -105,7 +105,7 @@ There are _**39**_ solutions at the moment
 
   - [C# solution](/kata's/6%20kyu/Decode%20the%20Morse%20code/decode-the-morse-code.cs)
 
-- ##### [`Who likes it`?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- ##### [`Who likes it?`](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
   - [C# solution](/kata's/6%20kyu/Who%20likes%20it/who-likes-it.cs)
   - [JS solution](/kata's/6%20kyu/Who%20likes%20it/who-likes-it.js)
@@ -141,6 +141,10 @@ There are _**39**_ solutions at the moment
 - ##### [`Counting Duplicates`](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
   - [TS solution](/kata's/6%20kyu/Counting%20Duplicates/counting_duplicates.ts)
+
+- ##### [`Length of missing array`](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
+
+  - [TS solution](/kata's/6%20kyu/Length%20of%20missing%20array/length-of-missing-array.ts)
 
 ---
 
